@@ -1,0 +1,13 @@
+@import "~bootstrap/scss/bootstrap";
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;700&display=swap");
+
+html,
+body {
+   height: 100%;
+}
+body {
+   margin: 0;
+   font-family: "Maven Pro", sans-serif;
+   background-color: #dee4d2;
+   color: #002500;
+}
